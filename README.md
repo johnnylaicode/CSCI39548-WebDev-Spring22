@@ -13,10 +13,7 @@ Course page for Practical Web Dev Spring 2022
 
 **Git and GitHub:**
 - Intro to Git and GitHub ([slides](https://drive.google.com/file/d/120xBezoPl6-ytqTnA8mlnvyopXxOri5D/view?usp=sharing))
-<<<<<<< HEAD
 - Guide on setting up SSH keys for Git and GitHub ([document](https://drive.google.com/file/d/1rQAKTI8Ocg8xSTGhmCVaRjwQdXbrlo6C/view?usp=sharing))
-=======
->>>>>>> 021d0b4d8c25b96b40ac212af84e86f7a9a92db0
 - [Sign up for GitHub](https://github.com)
 - [Download and Install Git](https://git-scm.com)
 - [Check for SSH Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) and [Generate SSH Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
