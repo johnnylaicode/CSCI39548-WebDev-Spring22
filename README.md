@@ -31,6 +31,8 @@ Course page for Practical Web Dev Spring 2022
 
 **Resources:**
 - [Git Textbook](https://git-scm.com/book/en/v2)
+- [Git Reference Manual](https://git-scm.com/docs/) and [Complete List of Git Commands](https://git-scm.com/docs/git#_git_commands) 
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [Video: Git Tutorial 1](https://www.youtube.com/watch?v=HVsySz-h9r4&t=443s&ab_channel=CoreySchafer)
 - [Video: Git Tutorial 2](https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia)
 - [Simple Git Guide](http://rogerdudler.github.io/git-guide/)
