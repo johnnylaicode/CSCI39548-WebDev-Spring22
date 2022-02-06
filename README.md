@@ -15,6 +15,7 @@ Course page for Practical Web Dev Spring 2022
 - Intro to Git and GitHub ([slides](https://drive.google.com/file/d/120xBezoPl6-ytqTnA8mlnvyopXxOri5D/view?usp=sharing))
 - Guide on how to set up SSH keys for Git and GitHub ([document](https://drive.google.com/file/d/1rQAKTI8Ocg8xSTGhmCVaRjwQdXbrlo6C/view?usp=sharing))
 - Description of Feature Branch Workflow Operation ([document](https://drive.google.com/file/d/1YnYHmXLqGLUT6ZVCuSK2jpzMXBc9q9Ke/view?usp=sharing))
+- Guide on how to set up team repository on GitHub ([document](https://drive.google.com/file/d/1bZTyLF3PQkr877TEQ1HFicZZ_OCxbbOi/view?usp=sharing))
 - [Sign up for GitHub](https://github.com)
 - [Download and Install Git](https://git-scm.com)
 - [Check for SSH Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys) and [Generate SSH Keys](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
@@ -190,19 +191,19 @@ Course page for Practical Web Dev Spring 2022
 **Express and Sequelize**
 - *Continue:* Build back-end application using Express and Sequelize
 
-**Work on Final Project - CRUD Application**
+**Work on Final Project - Full-Stack CRUD Application**
 
 ----------
 ## Class 13 (5/4, 5/9)
 **Review for Course Assessment**
 
-**Work on Final Project - CRUD Application**
+**Work on Final Project - Full-Stack CRUD Application**
 
 ----------
 ## Class 14 (5/11, 5/16)
-### *Reminder:* Final Project - CRUD Application is due on Friday, 5/20, at 11:59 PM.
+### *Reminder:* Final Project - Full-Stack CRUD Application is due on Friday, 5/20, at 11:59 PM.
 **Course Assessment (optional extra credit)**
 - Complete the optional Course Assessment on Wednesday, 5/11. 
 
-**Work on Final Project - CRUD Application**
+**Work on Final Project - Full-Stack CRUD Application**
 - Final Project is due on Friday, 5/20, at 11:59 PM.
