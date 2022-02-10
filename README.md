@@ -61,7 +61,7 @@ Course page for Practical Web Dev Spring 2022
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 **Node.js:**
-- [Install Node.js via Package Manager](https://nodejs.org/en/download/package-manager/) or [Install Node.js via Download](https://nodejs.org/en/download/)
+- [Install Node.js via Download](https://nodejs.org/en/download/) or [Install Node.js via Package Manager](https://nodejs.org/en/download/package-manager/) 
 
 **Resources:**
 - [Video: JS Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c&ab_channel=TraversyMedia)
