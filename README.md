@@ -58,7 +58,6 @@ Course page for Practical Web Dev Spring 2022
 - Intro to JavaScript ([slides](https://drive.google.com/file/d/1tmhqP-oqxQsd0PkmqWLZyasclURiVwVu/view?usp=sharing))
 - [Eloquent JavaScript Chapter 3: Functions](http://eloquentjavascript.net/03_functions.html)
 - [Eloquent JavaScript Chapter 4: Objects and Arrays](http://eloquentjavascript.net/04_data.html)
-- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 **Node.js:**
 - [Install Node.js via Download](https://nodejs.org/en/download/) or [Install Node.js via Package Manager](https://nodejs.org/en/download/package-manager/) 
@@ -75,8 +74,8 @@ Course page for Practical Web Dev Spring 2022
 ## Class 4 (2/23, 2/28)
 ### *Reminder:* Assignment 1 - Zoo is due on Thursday, 2/24, at 11:59 PM.
 
-**JavaScript and Node.js**
-- *Continue:* JavaScript and Node.js
+**JavaScript**
+- [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 **Intro to Assignment 2:**
 - ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1ckjvIJC2m3StDUrcPe0iuZzyQ35sMb9s/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
