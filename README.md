@@ -80,20 +80,22 @@ Course page for Practical Web Dev Spring 2022
 **Intro to Assignment 2:**
 - ### [**Assignment 2 - JavaScript Methods**](https://docs.google.com/document/d/1ckjvIJC2m3StDUrcPe0iuZzyQ35sMb9s/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
 - **[Starter code for Assignment 2 (templates)](https://gist.github.com/johnnylaicode/e4d58435142a82ae22b6c8e58a03a953)**
-- **[Examples code for Assignment 2](https://github.com/johnnylaicode/javascript-method-examples)**
+
+**Demo:**
+- JavaScript method examples ([javascript-method-examples](https://github.com/johnnylaicode/javascript-method-examples))
 
 **Document Object Model (DOM):**
 - Intro to DOM ([slides](https://drive.google.com/file/d/1ZHHGXPDOoH4kN3CQbNuYmSbf5wOdeZ5I/view?usp=sharing))
 
 **Demo:**
-- Demo DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
+- DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
 
 **Work on Assignment 2 - JavaScript Methods**
 
 ----------
 ## Class 5 (3/2, 3/7)
 **Document Object Model (DOM):**
-- More on intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
+- Additional intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
 
 **Demo:**
 - Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
