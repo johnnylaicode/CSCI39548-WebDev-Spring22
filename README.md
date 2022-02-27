@@ -86,7 +86,7 @@ Course page for Practical Web Dev Spring 2022
 - Intro to DOM ([slides](https://drive.google.com/file/d/1ZHHGXPDOoH4kN3CQbNuYmSbf5wOdeZ5I/view?usp=sharing))
 
 **Demo:**
-- Demo DOM examples ([DOM examples](https://github.com/johnnylaicode/dom-examples))
+- Demo DOM examples ([dom-examples](https://github.com/johnnylaicode/dom-examples))
 
 **Work on Assignment 2 - JavaScript Methods**
 
