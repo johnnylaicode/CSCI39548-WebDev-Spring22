@@ -48,7 +48,7 @@ Course page for Practical Web Dev Spring 2022
 - **[Starter code for Assignment 1](https://github.com/johnnylaicode/zoo-starter-code)**
 
 **Demo:**
-- Starter website for Assignment 1 ([zoo-starter-code](https://github.com/johnnylaicode/zoo-starter-code))
+- Demo starter website for Assignment 1 ([assignment1](https://github.com/johnnylaicode/assignment1))
 
 **Work on Assignment 1 - Zoo**
 
@@ -74,7 +74,7 @@ Course page for Practical Web Dev Spring 2022
 ## Class 4 (2/23, 2/28)
 ### *Reminder:* Assignment 1 - Zoo is due on Thursday, 2/24, at 11:59 PM.
 
-**JavaScript**
+**JavaScript:**
 - [Eloquent JavaScript Chapter 5: Higher Order Functions](http://eloquentjavascript.net/05_higher_order.html)
 
 **Intro to Assignment 2:**
@@ -82,15 +82,21 @@ Course page for Practical Web Dev Spring 2022
 - **[Starter code for Assignment 2 (templates)](https://gist.github.com/johnnylaicode/e4d58435142a82ae22b6c8e58a03a953)**
 - **[Examples code for Assignment 2](https://github.com/johnnylaicode/javascript-method-examples)**
 
+**Document Object Model (DOM):**
+- Intro to DOM ([slides](https://drive.google.com/file/d/1ZHHGXPDOoH4kN3CQbNuYmSbf5wOdeZ5I/view?usp=sharing))
+
+**Demo:**
+- Demo DOM examples ([DOM examples](https://github.com/johnnylaicode/dom-examples))
+
 **Work on Assignment 2 - JavaScript Methods**
 
 ----------
 ## Class 5 (3/2, 3/7)
-**DOM:**
-- [MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+**Document Object Model (DOM):**
+- More on intro to DOM ([MDN: Intro to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction))
 
 **Demo:**
-- Manipulate DOM in JavaScript ([demo code for DOM example](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
+- Manipulate DOM in JavaScript ([DOM manipulation](https://gist.github.com/johnnylaicode/c8689ffee1f5fe516dec769d9bda1581))
 
 **Supplemental materials:**
 - [Eloquent JavaScript Chapter 13: JavaScript and the Browser](http://eloquentjavascript.net/13_browser.html)
