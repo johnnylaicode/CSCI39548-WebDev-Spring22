@@ -134,7 +134,7 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 7 (3/16, 3/21)
-### *Reminder:* Assignment 3 - Grid Maker is due on Tuesday, 3/22, at 11:59 PM.
+### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 3/25, at 11:59 PM.
 **React, Asynchronous Programming, and APIs:**
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
