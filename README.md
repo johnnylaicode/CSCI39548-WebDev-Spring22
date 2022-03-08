@@ -120,6 +120,7 @@ Course page for Practical Web Dev Spring 2022
 ### *Reminder:* Assignment 2 - JavaScript Methods is due on Tuesday, 3/15, at 11:59 PM.
 **React:**
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
 **Extra practice:**
 - [React tutorial: Intro to React (building a Tic-Tac-Toe game)](https://reactjs.org/tutorial/tutorial.html)
