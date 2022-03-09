@@ -122,6 +122,9 @@ Course page for Practical Web Dev Spring 2022
 - [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
+**Demo:**
+- A simple React application - Hello World
+
 **Extra practice:**
 - [React tutorial: Intro to React (building a Tic-Tac-Toe game)](https://reactjs.org/tutorial/tutorial.html)
 - [React tutorial: Getting Started with React](https://sabe.io/tutorials/getting-started-with-react)
