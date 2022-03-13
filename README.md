@@ -119,7 +119,7 @@ Course page for Practical Web Dev Spring 2022
 ## Class 6 (3/9, 3/14)
 ### *Reminder:* Assignment 2 - JavaScript Methods is due on Tuesday, 3/15, at 11:59 PM.
 **React:**
-- [React Docs: Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [React Docs: Main Concepts (Sections 1-5)](https://reactjs.org/docs/hello-world.html)
 - [Create React App](https://reactjs.org/docs/create-a-new-react-app.html)
 
 **Demo:**
@@ -138,7 +138,6 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 7 (3/16, 3/21)
-### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 3/25, at 11:59 PM.
 **React, Asynchronous Programming, and APIs:**
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 
@@ -158,6 +157,7 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 8 (3/23, 3/28)
+### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 3/25, at 11:59 PM.
 **React Router:**
 
 **Intro to Assignment 4:**
