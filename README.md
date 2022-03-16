@@ -153,6 +153,7 @@ Course page for Practical Web Dev Spring 2022
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 **Supplemental materials:**
+- [React Docs: Main Concepts (Sections 6-12)](https://reactjs.org/docs/hello-world.html)
 - [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 - [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
