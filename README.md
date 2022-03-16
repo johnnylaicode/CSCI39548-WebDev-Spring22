@@ -138,14 +138,22 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 7 (3/16, 3/21)
-**React, Asynchronous Programming, and APIs:**
-- [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
+**React, Asynchronous Programming, and API:**
+- [React Application Examples: React components, async/await, API](https://github.com/johnnylaicode/react-examples)
+
+**Demo:**
+- React application example codes
+
+**Work on the following items:**
+- **Practices of React application examples**
+- **Assignment 3 - Grid Maker**
 
 **Chrome extensions used in class:**
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
 **Supplemental materials:**
+- [Promises, async/await, asynchronous JavaScript](https://javascript.info/async)
 - [In-depth article on async/await](https://blog.bitsrc.io/understanding-javascript-async-and-await-with-examples-a010b03926ea)
 - [Video: async/await](https://www.youtube.com/watch?v=vn3tm0quoqE&t=170s)
 - [Eloquent JavaScript: Asynchronous Programming](https://eloquentjavascript.net/11_async.html)
