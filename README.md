@@ -139,18 +139,18 @@ Course page for Practical Web Dev Spring 2022
 ----------
 ## Class 7 (3/16, 3/21)
 **React, Asynchronous Programming, and API:**
-- [React Application Examples: React components, async/await, API](https://github.com/johnnylaicode/react-examples)
+- [React Application Examples (Components 1-5): React components, async/await, API](https://github.com/johnnylaicode/react-examples)
 
 **Demo:**
-- React application example codes
+- React application example codes (Components 1-5)
 
 **Work on the following items:**
-- **Practices of React application examples**
+- **Practice and test of React application examples**
 - **Assignment 3 - Grid Maker**
 
 **Chrome extensions used in class:**
-- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 
 **Supplemental materials:**
 - [React Docs: Main Concepts (Sections 6-12)](https://reactjs.org/docs/hello-world.html)
