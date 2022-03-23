@@ -168,6 +168,7 @@ Course page for Practical Web Dev Spring 2022
 ## Class 8 (3/23, 3/28)
 ### *Reminder:* Assignment 3 - Grid Maker is due on Friday, 3/25, at 11:59 PM.
 **React Router:**
+- Intro to React Router ([slides](https://drive.google.com/file/d/1Y4ZwIDnq8CehSFPIsgfqhd3GMsUln9zl/view?usp=sharing))
 
 **Intro to Assignment 4:**
 - ### [Assignment 4 - Bank of React](https://gist.github.com/johnnylaicode/a2e6608f0b50a96d50b1873647e8ea4a)
