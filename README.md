@@ -170,6 +170,8 @@ Course page for Practical Web Dev Spring 2022
 **React Router:**
 
 **Intro to Assignment 4:**
+- ### [Assignment 4 - Bank of React](https://gist.github.com/johnnylaicode/a2e6608f0b50a96d50b1873647e8ea4a)
+- **[Example code for Assignment 4](https://github.com/johnnylaicode/bank-of-react-example-code)**
 
 **Recommended materials for next class:**
 - Redux: comprehensive tutorial by Dan Abramov, the creator of Redux ([Part 1](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)) ([Part 2](https://egghead.io/courses/building-react-applications-with-idiomatic-redux))
