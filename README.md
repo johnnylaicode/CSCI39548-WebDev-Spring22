@@ -185,8 +185,8 @@ Course page for Practical Web Dev Spring 2022
 ## Class 9 (3/30, 4/4)
 **Redux**
 - Managing state in React applications with Redux
-- Intro to Redux ([slides](https://drive.google.com/file/d/1C3pRo0P6EZ97JDszEXaJ4kHOvk6uxp5f/view?usp=sharing))
-- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/1Jn0SP1II9cfsUPwZhf91jnnx_Wn3_kgs/view?usp=sharing))
+- Intro to Redux ([slides](https://drive.google.com/file/d/10TY2X1do1xdS6XSAIW4lhCHcN8QiZPSt/view?usp=sharing))
+- Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/14j-i0AarzEXF4xAevzFh0BVjBbbjB_11/view?usp=sharing))
 - [React Application Examples (Component 6): Redux](https://github.com/johnnylaicode/react-examples)
 
 **Demo:**
