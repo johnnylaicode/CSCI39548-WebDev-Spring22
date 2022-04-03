@@ -145,7 +145,7 @@ Course page for Practical Web Dev Spring 2022
 - React application example codes (Components 1-5)
 
 **Work on the following items:**
-- **Practice and test of React application examples**
+- **Practice of React application examples (Components 1-5)**
 - **Assignment 3 - Grid Maker**
 
 **Chrome extensions used in class:**
@@ -187,12 +187,14 @@ Course page for Practical Web Dev Spring 2022
 - Managing state in React applications with Redux
 - Intro to Redux ([slides](https://drive.google.com/file/d/10TY2X1do1xdS6XSAIW4lhCHcN8QiZPSt/view?usp=sharing))
 - Intro to Thunk Middleware ([slides](https://drive.google.com/file/d/14j-i0AarzEXF4xAevzFh0BVjBbbjB_11/view?usp=sharing))
-- [React Application Examples (Component 6): Redux](https://github.com/johnnylaicode/react-examples)
+- [React Application Examples (Component 6): Redux and Thunk](https://github.com/johnnylaicode/react-examples)
 
 **Demo:**
-- React application example codes (Component 6)
+- React application example code (Component 6)
 
-**Practice Redux and Thunk**
+**Work on the following items:**
+- **Practice of React application example (Components 6)**
+- **Assignment 4 - Bank of React**
 
 ----------
 ## Class 10 (4/6, 4/11)
