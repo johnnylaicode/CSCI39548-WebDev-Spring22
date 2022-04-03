@@ -236,9 +236,9 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 14 (5/11, 5/16)
-### *Reminder:* Final Project - Full-Stack CRUD Application is due on Friday, 5/20, at 11:59 PM.
+### *Reminder:* Final Project - Full-Stack CRUD Application is due on Wednesday, 5/18, at 11:59 PM.
 **Course Assessment (optional extra credit)**
 - Complete the optional Course Assessment on Wednesday, 5/11. 
 
 **Work on Final Project - Full-Stack CRUD Application**
-- Final Project is due on Friday, 5/20, at 11:59 PM.
+- Final Project is due on Wednesday, 5/18, at 11:59 PM.
