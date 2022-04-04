@@ -193,7 +193,7 @@ Course page for Practical Web Dev Spring 2022
 - React application example code (Component 6)
 
 **Work on the following items:**
-- **Practice of React application example (Components 6)**
+- **Practice of React application example (Component 6)**
 - **Assignment 4 - Bank of React**
 
 ----------
