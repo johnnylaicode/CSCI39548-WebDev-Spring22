@@ -203,6 +203,9 @@ Course page for Practical Web Dev Spring 2022
 - **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
 - **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
 
+**Demo:**
+- Final Project starter application
+
 **Supplemental materials:**
 - [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
 
