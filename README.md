@@ -198,10 +198,12 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 10 (4/6, 4/11)
-**Redux**
--  *Continue:* Redux
-
 **Intro to Final Project:**
+- ### [Final Project - CRUD Application](https://docs.google.com/document/d/1AGD9n-i-srKOS0SodAITX9GFZv3opLBw/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)
+- **[Client starter code for Final Project](https://github.com/johnnylaicode/client-starter-code)**
+- **[Server starter code for Final Project](https://github.com/johnnylaicode/server-starter-code)**
+
+**Supplemental materials:**
 - [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
 
 ----------
