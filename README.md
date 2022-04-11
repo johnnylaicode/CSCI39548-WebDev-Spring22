@@ -209,6 +209,9 @@ Course page for Practical Web Dev Spring 2022
 **Supplemental materials:**
 - [What's a CRUD application?](https://medium.com/geekculture/whats-a-crud-app-e5a29cce03b5)
 
+**Resources:**
+- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
+
 ----------
 ## Class 11 (4/13, 4/25)
 ### *Reminder:* Assignment 4 - Bank of React is due on Thursday, 4/14, at 11:59 PM.
@@ -224,7 +227,6 @@ Course page for Practical Web Dev Spring 2022
 
 **Resources:**
 - [Add an existing project to GitHub](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
-- Downloads: [PostgreSQL](https://www.postgresql.org/download/) and [Postman](https://www.postman.com/downloads/)
 
 ----------
 ## Class 12 (4/27, 5/2)
