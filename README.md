@@ -214,7 +214,7 @@ Course page for Practical Web Dev Spring 2022
 
 ----------
 ## Class 11 (4/13, 4/25)
-### *Reminder:* Assignment 4 - Bank of React is due on Thursday, 4/14, at 11:59 PM.
+### *Reminder:* Assignment 4 - Bank of React is due on (New Due Date) Monday, 4/18, at 11:59 PM.
 **RESTful API, Express, and Sequelize**
 - Build back-end application using Express and Sequelize
 - RESTful API ([slides](https://drive.google.com/file/d/1MG0Ac4evjuP2yQBbRrgNzBbnSfRZZoSE/view?usp=sharing))
