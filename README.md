@@ -218,9 +218,11 @@ Course page for Practical Web Dev Spring 2022
 **RESTful API, Express, and Sequelize**
 - Build back-end application using Express and Sequelize
 - RESTful API ([slides](https://drive.google.com/file/d/1MG0Ac4evjuP2yQBbRrgNzBbnSfRZZoSE/view?usp=sharing))
+- Intro to Express ([slides](https://drive.google.com/file/d/1Jc6xT47ZxVYdoRs3u_LHGKfb42i8ueXv/view?usp=sharing))
 
 **Demo:**
-- RESTful API
+- RESTful API and test using Postman
+- Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
 
 **Supplemental materials:**
 - [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
