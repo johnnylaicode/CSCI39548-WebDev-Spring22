@@ -224,6 +224,7 @@ Course page for Practical Web Dev Spring 2022
 **Demo:**
 - RESTful API and test using Postman
 - Express routing feature examples ([express-routing](https://github.com/johnnylaicode/express-routing))
+- Postgres psql
 
 **Supplemental materials:**
 - [Tutorial: Setting up a simple Node application with Express/Sequelize](https://www.youtube.com/watch?v=bOHysWYMZM0&ab_channel=TraversyMedia)
@@ -241,6 +242,7 @@ Course page for Practical Web Dev Spring 2022
 - *Continue:* Build back-end application using Express and Sequelize
 
 **Work on Final Project - Full-Stack CRUD Application**
+- **Final Project documentation, with highlights indicating various functions already included in the starter code (green=done, yellow=partially done): [Final Project - CRUD Application](https://docs.google.com/document/d/1LKio5WxvYwvpmrC-x3jHuAuZjPoNMHY8/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)**
 
 ----------
 ## Class 13 (5/4, 5/9)
