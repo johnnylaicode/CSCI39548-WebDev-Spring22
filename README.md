@@ -242,11 +242,13 @@ Course page for Practical Web Dev Spring 2022
 - *Continue:* Build back-end application using Express and Sequelize
 
 **Work on Final Project - Full-Stack CRUD Application**
-- **Final Project documentation, with highlights indicating various functions already included in the starter code (green=done, yellow=partially done): [Final Project - CRUD Application](https://docs.google.com/document/d/1LKio5WxvYwvpmrC-x3jHuAuZjPoNMHY8/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)**
+- **Final Project documentation, with highlights indicating various functions already included in the starter code (green=done, yellow=partially done): [Final Project - CRUD Application (highlighted)](https://docs.google.com/document/d/1LKio5WxvYwvpmrC-x3jHuAuZjPoNMHY8/edit?usp=sharing&ouid=103231663234242419974&rtpof=true&sd=true)**
 
 ----------
 ## Class 13 (5/4, 5/9)
-**Review for Course Assessment**
+**Review for Course Assessment Test**
+- Review document and example questions/answers for Course Assessment Test
+- *Note: The above information is available on Blackboard.*
 
 **Work on Final Project - Full-Stack CRUD Application**
 
@@ -254,7 +256,7 @@ Course page for Practical Web Dev Spring 2022
 ## Class 14 (5/11, 5/16)
 ### *Reminder:* Final Project - Full-Stack CRUD Application is due on Wednesday, 5/18, at 11:59 PM.
 **Course Assessment (optional extra credit)**
-- Complete the optional Course Assessment on Wednesday, 5/11. 
+- Complete the optional Course Assessment Test on Wednesday, 5/11. 
 
 **Work on Final Project - Full-Stack CRUD Application**
 - Final Project is due on Wednesday, 5/18, at 11:59 PM.
