@@ -250,12 +250,14 @@ Course page for Practical Web Dev Spring 2022
 - Review document and example questions/answers for Course Assessment Test
 - *Note: The above information is available on Blackboard.*
 
+**Complete Teacher Evaluation**
+
 **Work on Final Project - Full-Stack CRUD Application**
 
 ----------
 ## Class 14 (5/11, 5/16)
 ### *Reminder:* Final Project - Full-Stack CRUD Application is due on Wednesday, 5/18, at 11:59 PM.
-**Course Assessment (optional extra credit)**
+**Course Assessment Test (optional extra credit)**
 - Complete the optional Course Assessment Test on Wednesday, 5/11. 
 
 **Work on Final Project - Full-Stack CRUD Application**
